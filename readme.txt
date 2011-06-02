@@ -13,7 +13,7 @@ This plugin adds a <a href="http://www.google.com/+1/button/" target="_blank">Go
 
 == Installation ==
 1. Download the .zip archive (link below) and extract.
-1. Upload the 'plusone' folder to your plugin directory. You should now have a '/wp-content/plugins/plusone/' directory with wp-plusone.php in it.
+1. Upload the '1-for-wordpress' folder to your plugin directory. You should now have a '/wp-content/plugins/1-for-wordpress/' directory with wp-plusone.php in it.
 1. Activate the plugin through the 'Plugins' page in WordPress.
 1. Go to 'Settings->+1 For Wordpress' in your admin interface to select your options.
 
